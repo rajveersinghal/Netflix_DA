@@ -18,7 +18,6 @@ This project performs exploratory data analysis (EDA) on Netflix's dataset to un
 4. [Key Findings](#key-findings)
 5. [Technologies Used](#technologies-used)
 6. [Visualizations](#visualizations)
-7. [Contributing](#contributing)
 
 ---
 
